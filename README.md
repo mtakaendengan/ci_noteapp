@@ -26,9 +26,7 @@ In this project, you will need:
 
 After all required files downloaded, you need to install all of it. Let the configuration of XAMPP default. After XAMPP installed, extract the zipped file into.
 
-```
-C:\xampp\htdocs\
-```
+`C:\xampp\htdocs\`
 
 ### 3. 
 
