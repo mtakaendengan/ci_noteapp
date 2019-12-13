@@ -20,10 +20,15 @@ In this project, you will need:
 - Web server development environment (XAMPP, LAMPP, WAMPP, etc.) In this case we use **XAMPP** and you can download [here.](<https://www.apachefriends.org/download.html>) 
 - Code editor (Notepad, Notepad++, Sublime Text, VS Code) Choose one that suits you.
 - A web browser. *Well, of course the one that you open to browse this repo.*
+- Main file in this repository named [public_html.zip](public_html.zip) <- Click to redirect to download page
 
-### 2. Downloading and opening project
+### 2. Setup base file
 
-After all setup, download the zipped file provided in this repository named [public_html.](public_html.zip)
+After all required files downloaded, you need to install all of it. Let the configuration of XAMPP default. After XAMPP installed, extract the zipped file into.
+
+```
+C:\xampp\htdocs\
+```
 
 ### 3. 
 
