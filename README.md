@@ -19,7 +19,7 @@ In this project, you will need:
 
 - Web server development environment (XAMPP, LAMPP, WAMPP, etc.) In this case we use **XAMPP** and you can download [here.](<https://www.apachefriends.org/download.html>) 
 - Code editor (Notepad, Notepad++, Sublime Text, VSCode) Choose one that suits you.
-- A web browser.
+- A web browser. *Well, of course the one that you open to browse this repo.*
 
 
 
