@@ -30,7 +30,7 @@ After all required files downloaded, you need to install all of it. Let the conf
 
 and it should look like:
 
-![image-20200108081755111](C:\GitHub\ci_noteapp\img1.png)
+![image-20200108081755111](img1.png)
 
 * *note, the name you extracted is just **noteapp** with no* "ci_"
 
@@ -38,11 +38,11 @@ and it should look like:
 
 * Open Xampp
 
-![image-20200108083228549](C:\GitHub\ci_noteapp\img2.png)
+![image-20200108083228549](img2.png)
 
 * Press "Start" on **Apache** and **MySQL** button 
 
-  ![image-20200108083623819](C:\GitHub\ci_noteapp\img3.png)
+  ![image-20200108083623819](img3.png)
 
 * Open Web Browser and type
 
@@ -50,15 +50,15 @@ and it should look like:
 
 * Click **New**
 
-  ![image-20200108083826019](C:\GitHub\ci_noteapp\img4.png)
+  ![image-20200108083826019](img4.png)
 
 * Create new database name **noteapp**
 
-  ![image-20200108083956004](C:\GitHub\ci_noteapp\img5.png)
+  ![image-20200108083956004](img5.png)
 
 * After creating the database, click on it and go to **import** tab then press choose file to import the database
 
-  ![image-20200108084253192](C:\GitHub\ci_noteapp\img6.png)
+  ![image-20200108084253192](img6.png)
 
   ![image-20200108084426438](img7.png) 
 
