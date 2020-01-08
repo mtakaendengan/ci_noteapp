@@ -60,7 +60,7 @@ and it should look like:
 
   ![image-20200108084253192](C:\GitHub\ci_noteapp\img6.png)
 
-  ![image-20200108084426438](C:\GitHub\ci_noteapp\img7.png) 
+  ![image-20200108084426438](img7.png) 
 
 * Done, all being set up, go to the next step
 
